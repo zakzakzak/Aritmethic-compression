@@ -1,5 +1,5 @@
 # Aritmethic-compression
 Encoding and Decoding string using Aritmethic compression
 
-![GitHub Logo](/images/input.png)
+![GitHub Logo](/input.png)
 Format: ![Alt Text](url)
