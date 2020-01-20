@@ -1,9 +1,9 @@
 # Aritmethic-compression
 Encoding and Decoding string using Aritmethic compression
 
-Input :
+Input : \
 ![GitHub Logo](/input.png)
 
-Output :
+Output : \
 ![GitHub Logo](/output.png)
 
